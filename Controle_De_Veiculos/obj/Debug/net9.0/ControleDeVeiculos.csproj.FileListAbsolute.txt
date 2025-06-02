@@ -1,0 +1,14 @@
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\ControleDeVeiculos\bin\Debug\net9.0\ControleDeVeiculos.exe
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\ControleDeVeiculos\bin\Debug\net9.0\ControleDeVeiculos.deps.json
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\ControleDeVeiculos\bin\Debug\net9.0\ControleDeVeiculos.runtimeconfig.json
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\ControleDeVeiculos\bin\Debug\net9.0\ControleDeVeiculos.dll
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\ControleDeVeiculos\bin\Debug\net9.0\ControleDeVeiculos.pdb
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\ControleDeVeiculos\obj\Debug\net9.0\ControleDeVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\ControleDeVeiculos\obj\Debug\net9.0\ControleDeVeiculos.AssemblyInfoInputs.cache
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\ControleDeVeiculos\obj\Debug\net9.0\ControleDeVeiculos.AssemblyInfo.cs
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\ControleDeVeiculos\obj\Debug\net9.0\ControleDeVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\ControleDeVeiculos\obj\Debug\net9.0\ControleDeVeiculos.dll
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\ControleDeVeiculos\obj\Debug\net9.0\refint\ControleDeVeiculos.dll
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\ControleDeVeiculos\obj\Debug\net9.0\ControleDeVeiculos.pdb
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\ControleDeVeiculos\obj\Debug\net9.0\ControleDeVeiculos.genruntimeconfig.cache
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\ControleDeVeiculos\obj\Debug\net9.0\ref\ControleDeVeiculos.dll
