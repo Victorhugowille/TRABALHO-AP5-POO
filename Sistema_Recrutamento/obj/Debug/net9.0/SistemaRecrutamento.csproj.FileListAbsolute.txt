@@ -1,0 +1,14 @@
+C:\Users\boliv\SistemaRecrutamento\bin\Debug\net9.0\SistemaRecrutamento.exe
+C:\Users\boliv\SistemaRecrutamento\bin\Debug\net9.0\SistemaRecrutamento.deps.json
+C:\Users\boliv\SistemaRecrutamento\bin\Debug\net9.0\SistemaRecrutamento.runtimeconfig.json
+C:\Users\boliv\SistemaRecrutamento\bin\Debug\net9.0\SistemaRecrutamento.dll
+C:\Users\boliv\SistemaRecrutamento\bin\Debug\net9.0\SistemaRecrutamento.pdb
+C:\Users\boliv\SistemaRecrutamento\obj\Debug\net9.0\SistemaRecrutamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boliv\SistemaRecrutamento\obj\Debug\net9.0\SistemaRecrutamento.AssemblyInfoInputs.cache
+C:\Users\boliv\SistemaRecrutamento\obj\Debug\net9.0\SistemaRecrutamento.AssemblyInfo.cs
+C:\Users\boliv\SistemaRecrutamento\obj\Debug\net9.0\SistemaRecrutamento.csproj.CoreCompileInputs.cache
+C:\Users\boliv\SistemaRecrutamento\obj\Debug\net9.0\SistemaRecrutamento.dll
+C:\Users\boliv\SistemaRecrutamento\obj\Debug\net9.0\refint\SistemaRecrutamento.dll
+C:\Users\boliv\SistemaRecrutamento\obj\Debug\net9.0\SistemaRecrutamento.pdb
+C:\Users\boliv\SistemaRecrutamento\obj\Debug\net9.0\SistemaRecrutamento.genruntimeconfig.cache
+C:\Users\boliv\SistemaRecrutamento\obj\Debug\net9.0\ref\SistemaRecrutamento.dll
