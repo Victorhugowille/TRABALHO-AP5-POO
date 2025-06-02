@@ -1,0 +1,14 @@
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\bin\Debug\net9.0\SistemaDeVendas.exe
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\bin\Debug\net9.0\SistemaDeVendas.deps.json
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\bin\Debug\net9.0\SistemaDeVendas.runtimeconfig.json
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\bin\Debug\net9.0\SistemaDeVendas.dll
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\bin\Debug\net9.0\SistemaDeVendas.pdb
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\obj\Debug\net9.0\SistemaDeVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\obj\Debug\net9.0\SistemaDeVendas.AssemblyInfoInputs.cache
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\obj\Debug\net9.0\SistemaDeVendas.AssemblyInfo.cs
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\obj\Debug\net9.0\SistemaDeVendas.csproj.CoreCompileInputs.cache
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\obj\Debug\net9.0\SistemaDeVendas.dll
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\obj\Debug\net9.0\refint\SistemaDeVendas.dll
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\obj\Debug\net9.0\SistemaDeVendas.pdb
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\obj\Debug\net9.0\SistemaDeVendas.genruntimeconfig.cache
+C:\Users\boliv\OneDrive\Área de Trabalho\teste\SistemaDeVendas\obj\Debug\net9.0\ref\SistemaDeVendas.dll

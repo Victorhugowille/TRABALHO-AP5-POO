@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "eventos_culturais/1.0.0": {
+        "runtime": {
+          "eventos_culturais.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eventos_culturais/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

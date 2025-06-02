@@ -1,0 +1,14 @@
+c:\Users\rondi\OneDrive\Desktop\Streaming\PlataformaStreaming\bin\Debug\net9.0\PlataformaStreaming.exe
+c:\Users\rondi\OneDrive\Desktop\Streaming\PlataformaStreaming\bin\Debug\net9.0\PlataformaStreaming.deps.json
+c:\Users\rondi\OneDrive\Desktop\Streaming\PlataformaStreaming\bin\Debug\net9.0\PlataformaStreaming.runtimeconfig.json
+c:\Users\rondi\OneDrive\Desktop\Streaming\PlataformaStreaming\bin\Debug\net9.0\PlataformaStreaming.dll
+c:\Users\rondi\OneDrive\Desktop\Streaming\PlataformaStreaming\bin\Debug\net9.0\PlataformaStreaming.pdb
+c:\Users\rondi\OneDrive\Desktop\Streaming\PlataformaStreaming\obj\Debug\net9.0\PlataformaStreaming.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rondi\OneDrive\Desktop\Streaming\PlataformaStreaming\obj\Debug\net9.0\PlataformaStreaming.AssemblyInfoInputs.cache
+c:\Users\rondi\OneDrive\Desktop\Streaming\PlataformaStreaming\obj\Debug\net9.0\PlataformaStreaming.AssemblyInfo.cs
+c:\Users\rondi\OneDrive\Desktop\Streaming\PlataformaStreaming\obj\Debug\net9.0\PlataformaStreaming.csproj.CoreCompileInputs.cache
+c:\Users\rondi\OneDrive\Desktop\Streaming\PlataformaStreaming\obj\Debug\net9.0\PlataformaStreaming.dll
+c:\Users\rondi\OneDrive\Desktop\Streaming\PlataformaStreaming\obj\Debug\net9.0\refint\PlataformaStreaming.dll
+c:\Users\rondi\OneDrive\Desktop\Streaming\PlataformaStreaming\obj\Debug\net9.0\PlataformaStreaming.pdb
+c:\Users\rondi\OneDrive\Desktop\Streaming\PlataformaStreaming\obj\Debug\net9.0\PlataformaStreaming.genruntimeconfig.cache
+c:\Users\rondi\OneDrive\Desktop\Streaming\PlataformaStreaming\obj\Debug\net9.0\ref\PlataformaStreaming.dll
