@@ -1,0 +1,15 @@
+C:\Users\victo\OneDrive\Desktop\POO\ap 5\Cadastro_escolar\obj\Debug\net9.0\Cadastro_escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Desktop\POO\ap 5\Cadastro_escolar\obj\Debug\net9.0\Cadastro_escolar.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Desktop\POO\ap 5\Cadastro_escolar\obj\Debug\net9.0\Cadastro_escolar.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Desktop\POO\ap 5\Cadastro_escolar\obj\Debug\net9.0\Cadastro_escolar.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Desktop\POO\ap 5\Cadastro_escolar\obj\Debug\net9.0\Cadastro_escolar.sourcelink.json
+C:\Users\victo\OneDrive\Desktop\POO\ap 5\Cadastro_escolar\bin\Debug\net9.0\Cadastro_escolar.exe
+C:\Users\victo\OneDrive\Desktop\POO\ap 5\Cadastro_escolar\bin\Debug\net9.0\Cadastro_escolar.deps.json
+C:\Users\victo\OneDrive\Desktop\POO\ap 5\Cadastro_escolar\bin\Debug\net9.0\Cadastro_escolar.runtimeconfig.json
+C:\Users\victo\OneDrive\Desktop\POO\ap 5\Cadastro_escolar\bin\Debug\net9.0\Cadastro_escolar.dll
+C:\Users\victo\OneDrive\Desktop\POO\ap 5\Cadastro_escolar\bin\Debug\net9.0\Cadastro_escolar.pdb
+C:\Users\victo\OneDrive\Desktop\POO\ap 5\Cadastro_escolar\obj\Debug\net9.0\Cadastro_escolar.dll
+C:\Users\victo\OneDrive\Desktop\POO\ap 5\Cadastro_escolar\obj\Debug\net9.0\refint\Cadastro_escolar.dll
+C:\Users\victo\OneDrive\Desktop\POO\ap 5\Cadastro_escolar\obj\Debug\net9.0\Cadastro_escolar.pdb
+C:\Users\victo\OneDrive\Desktop\POO\ap 5\Cadastro_escolar\obj\Debug\net9.0\Cadastro_escolar.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Desktop\POO\ap 5\Cadastro_escolar\obj\Debug\net9.0\ref\Cadastro_escolar.dll

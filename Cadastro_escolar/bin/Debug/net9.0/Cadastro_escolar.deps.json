@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Cadastro_escolar/1.0.0": {
+        "runtime": {
+          "Cadastro_escolar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cadastro_escolar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

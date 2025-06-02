@@ -1,0 +1,14 @@
+namespace Models
+{
+    public class Dados 
+    {
+        public int autor { get; set; }
+        public string livro { get; set; }
+        public string nome { get; set; }
+
+        public override string ToString()
+        {
+            return $"[{autor}] --- {livro} --- {nome}";
+        }
+    }
+}
